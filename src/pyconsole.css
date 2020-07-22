@@ -1,0 +1,70 @@
+html, body, .wrapper {
+    font-size: 12px;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+html, #pyinput {
+   font-family: “Avant Garde”, Avantgarde, “Century Gothic”, CenturyGothic, “AppleGothic”, sans-serif;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+#output {
+    flex: 1 1 auto;
+    overflow-y: scroll;
+}
+
+.result {
+    padding: 0.5em 1em;
+}
+
+.display-input:before {
+    content: '>>>';
+    margin-right: 0.5em;
+    color: gray;
+}
+
+.display-output {
+    margin: 0.2em 0;
+}
+
+.input {
+    width: 100%;
+    align-self: flex-end;
+    border-top: 1px lightgray solid;
+    display: flex;
+    align-items: baseline;
+}
+
+.input.active {
+    border-top: 1px cornflowerblue solid;
+}
+
+.input.active #pyinputlabel {
+    color: cornflowerblue;
+    font-weight: bold;
+}
+
+.pyversion {
+    float: right;
+    margin: 1em;
+}
+
+#pyinputlabel {
+    margin-left: 1em;
+    flex: 0 1 auto;
+    color: gray;
+}
+
+#pyinput {
+    font-size: 1em;
+    flex: 1 1 auto; 
+    margin: 0;
+    border: 0;
+    padding: 0.5em;
+}

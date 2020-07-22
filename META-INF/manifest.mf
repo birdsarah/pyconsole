@@ -1,0 +1,86 @@
+Manifest-Version: 1.0
+
+Name: CHANGELOG.md
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: /4E2//VcsEI0zInZiq097g==
+SHA1-Digest: k/3BemW4Xc78/iv2UXCglhR+IXo=
+SHA256-Digest: 7Y6OnpeNRNB8cs5QUQ0lPlNR3o5hK7UuxCS2rKoD2h4=
+
+Name: manifest.json
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: NbZ5tzuu0ChlDFccQ12IEA==
+SHA1-Digest: TnAwEVeSxKtje/V7Zmw7wo0ERDM=
+SHA256-Digest: ekQ3vD+uLO1T4O6owPzGs/VfN8kdJg1yjJ814r9wmSU=
+
+Name: icons/pyconsole.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 1URbWwaP1YRyOSNtLYzcDA==
+SHA1-Digest: URoQik5SR3GFXvXXZr6d9e9qQPw=
+SHA256-Digest: RVBEl1QCje+wzK6rLqyjOjsJFDR2fgJy8mB0+od14l4=
+
+Name: src/background.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 1B2M2Y8AsgTpgAmY7PhCfg==
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+SHA256-Digest: 47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+
+Name: src/devtools.html
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: M0CLsqKch4U13F9/M3d4zQ==
+SHA1-Digest: akgDm8Xd2Q56TvJpWMF0/3wuAeo=
+SHA256-Digest: RXNrosUM2ahg4k2OQJiNJNnz7PY+5X42WLki3nCXI0g=
+
+Name: src/devtools.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 1rTQW64oBnw8HjG120pUHA==
+SHA1-Digest: MuUh1GQuGi2BGzvkauIYG+nYdrg=
+SHA256-Digest: CQpGJtTaSWgDs0/h5Mzy364khnUUft9O3lTyBcCHefI=
+
+Name: src/pyconsole.css
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: zRerbgJ8/5qBvyoSFxrnUw==
+SHA1-Digest: b/6CYlgd+t/sHQz+NDU3GpFg9l8=
+SHA256-Digest: xo/fcMQpcSzxdyGPNw960yF0n6cxTtCYvOrBAO5U1PE=
+
+Name: src/pyconsole.html
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: M35q2vwBoA8y3RANtQ8F9g==
+SHA1-Digest: PQhcIwZTbIy2e85hG8fQSbT16+c=
+SHA256-Digest: tmSRFzSOrRQs4D1daJuUc8clEJPCjC9CGJHyDth2r2c=
+
+Name: src/pyconsole.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: fYmJ7aPXQKQf1Yi54Oxotw==
+SHA1-Digest: WmY2wluSDmNdRCqNtj3gz0R9HB4=
+SHA256-Digest: eGgDdsr1fNAe0gvOrd54Gg1sKrVxSmYgkBiU1Xvkcsg=
+
+Name: src/pyodide/pyodide.asm.data
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: f8jpEG6Rw1LWjowd48MJ3g==
+SHA1-Digest: eVPfHogH6TPD/RNHlzoCaoCEpX8=
+SHA256-Digest: ZYVAKrW1BSu1bHOdmN1le054Lj6NizJHmiNt67rV/lk=
+
+Name: src/pyodide/pyodide.asm.data.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: gt28sc7B7OTFmwgDJiszUQ==
+SHA1-Digest: Eqx9i5C9IZq6vtH4nxVxSBb/Jso=
+SHA256-Digest: uDMx2Fh8cGz/4xLeuE3fa0VIzgdVGUkriPKmSfLfQOs=
+
+Name: src/pyodide/pyodide.asm.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: o3OboJUCuqCPBaSUo+m5aQ==
+SHA1-Digest: Z0oCQtPnegyx7JdfFuofGccUWGs=
+SHA256-Digest: pJpe/oX9JC+gZYQmXEASku7NOg+5jhYFK1vVFxwNtgM=
+
+Name: src/pyodide/pyodide.asm.wasm
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: s/LH2daPbPxT8Izz9h8EQQ==
+SHA1-Digest: koXKDGiRvcxE1OJ8XAcxASLlp28=
+SHA256-Digest: dPY2NRysz7vumOOlOjn3Xv1CTXFDfBXbaOD6hlb5x1c=
+
+Name: src/pyodide/pyodide.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: Lx9hZrbkJrIRNSdf7q9V3w==
+SHA1-Digest: /spQB0I0KvlhlOCoxGkidxjP12w=
+SHA256-Digest: jGxxaf85Vr4wSHIsEXB3ataWjsZw70K55buw3Qb2Vsg=
+
